@@ -1,0 +1,14 @@
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\bin\Debug\net8.0\BundleCountWithoutEF.exe
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\bin\Debug\net8.0\BundleCountWithoutEF.deps.json
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\bin\Debug\net8.0\BundleCountWithoutEF.runtimeconfig.json
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\bin\Debug\net8.0\BundleCountWithoutEF.dll
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\bin\Debug\net8.0\BundleCountWithoutEF.pdb
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\obj\Debug\net8.0\BundleCountWithoutEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\obj\Debug\net8.0\BundleCountWithoutEF.AssemblyInfoInputs.cache
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\obj\Debug\net8.0\BundleCountWithoutEF.AssemblyInfo.cs
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\obj\Debug\net8.0\BundleCountWithoutEF.csproj.CoreCompileInputs.cache
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\obj\Debug\net8.0\BundleCountWithoutEF.dll
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\obj\Debug\net8.0\refint\BundleCountWithoutEF.dll
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\obj\Debug\net8.0\BundleCountWithoutEF.pdb
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\obj\Debug\net8.0\BundleCountWithoutEF.genruntimeconfig.cache
+D:\Projects\BundleCountWithoutEF\BundleCountWithoutEF\obj\Debug\net8.0\ref\BundleCountWithoutEF.dll
